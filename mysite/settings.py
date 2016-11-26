@@ -25,7 +25,7 @@ SECRET_KEY = '^$p7njlc(=-c*32k+@#bwa063kf+85s642w5@gm+)gemf^zums'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['asterb.pythonanywhere.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
